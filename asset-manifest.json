@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/endmill-manager/static/css/main.e6c13ad2.css",
+    "main.js": "/endmill-manager/static/js/main.78edc197.js",
+    "static/js/453.c12d0379.chunk.js": "/endmill-manager/static/js/453.c12d0379.chunk.js",
+    "index.html": "/endmill-manager/index.html",
+    "main.e6c13ad2.css.map": "/endmill-manager/static/css/main.e6c13ad2.css.map",
+    "main.78edc197.js.map": "/endmill-manager/static/js/main.78edc197.js.map",
+    "453.c12d0379.chunk.js.map": "/endmill-manager/static/js/453.c12d0379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.78edc197.js"
+  ]
+}
